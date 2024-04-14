@@ -120,7 +120,7 @@ input{
 }
 
 /* mobile */
-@media (max-width: 500px){
+@media (max-width: 520px){
     .weather-app{
         width: 90vw;
         margin: 10px 0;
@@ -139,7 +139,7 @@ input{
         padding: 15px 10px;
     }
 }
-@media (max-width:376px){
+@media (max-width:410px){
     .weather-app{
         width:95vw;
         /* height: 90vh; */
